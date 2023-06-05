@@ -8,6 +8,7 @@ public class Ejercicio9 {
 
         scanner.close();
 
+        // Las fórmulas de conversión tienen un error
         double dolar = 231.68 / pesos;
         double euro = 250.69 / pesos;
         double guaranies = 31 * pesos;

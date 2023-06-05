@@ -7,6 +7,7 @@ public class Ejercicio5 {
         double radio = scanner.nextDouble();
         scanner.close();
 
+        // La fórmula del área no es correcta
         double area = 2 * (radio * radio);
         double perimetro = 2 * radio * Math.PI;
 
