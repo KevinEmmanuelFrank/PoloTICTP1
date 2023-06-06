@@ -1,3 +1,5 @@
+package trabajo1;
+
 import javax.swing.*;
 
 public class Ejercicio1 {
