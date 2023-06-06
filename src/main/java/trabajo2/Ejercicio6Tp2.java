@@ -1,3 +1,5 @@
+package trabajo2;
+
 public class Ejercicio6Tp2 {
     public static void main(String[] args) {
         for (int i = 2; i < 200; i++) {

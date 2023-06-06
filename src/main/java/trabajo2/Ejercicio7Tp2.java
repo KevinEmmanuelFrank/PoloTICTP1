@@ -1,3 +1,5 @@
+package trabajo2;
+
 import java.util.Scanner;
 
 public class Ejercicio7Tp2 {
