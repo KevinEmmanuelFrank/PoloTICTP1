@@ -11,10 +11,10 @@ public class Ejercicio9 {
         scanner.close();
 
         // Las fórmulas de conversión tienen un error
-        double dolar = 231.68 / pesos;
-        double euro = 250.69 / pesos;
+        double dolar = pesos / 231.68;
+        double euro =  pesos / 250.69;
         double guaranies = 31 * pesos;
-        double real = 46.81 / pesos;
+        double real = pesos / 46.81 ;
 
         System.out.printf("Dólares: %.4f\nEuros: %.4f\nGuaraníes: %.1f\nReales: %.4f", dolar, euro, guaranies, real);
     }
