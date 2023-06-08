@@ -9,7 +9,7 @@ public class Ejercicio7 {
         int edad1 = scanner.nextInt();
 
         System.out.println("Ingrese la segunda edad:");
-        int edad2 = scanner.nextInt();;
+        int edad2 = scanner.nextInt();
 
         scanner.close();
 

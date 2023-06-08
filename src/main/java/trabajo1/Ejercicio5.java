@@ -10,7 +10,7 @@ public class Ejercicio5 {
         scanner.close();
 
         // La fórmula del área no es correcta
-        double area = 2 * (radio * radio);
+        double area = Math.PI * (radio * radio);
         double perimetro = 2 * radio * Math.PI;
 
         System.out.println("El área de la circunferencia es: " + area);
